@@ -1,17 +1,17 @@
-#Contador
+# Contador
 Neste projeto, iremos fazer a nossa primeira integração de um código Javascript com uma página HTML.
 
-#Dicas
+# Dicas
 Caso você queira ir além, aqui estão algumas dicas de coisas para tentar:
 
 *Tente implementar os eventos usando o método addEventListener.
 *Crie condicionais que desabilitam o botão de incrementar ou decrementar quando count chegar a um determinado valor (ex.: 0 <= count =< 10).
 *Mude a cor do texto em CURRENT_NUMBER para vermelho quando o número for negativo.
 
-#To-do list
+# To-do list
 Neste projeto, iremos criar uma simples lista de tarefas.
 
-#Instruções
+# Instruções
 Antes de clonar o projeto, tente fazer seguindo as instruções abaixo:
 
 1.Crie um campo de input de texto e um botão para adicionar a tarefa à lista;
